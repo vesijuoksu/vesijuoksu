@@ -12,5 +12,5 @@ I'm a student learning data analysis and data science, with a particular interes
 
 ### 🏃 Projects
 
-- **My data science project:** I am building my skills through a data science project that explores an interesting dataset and presents clear findings.
-- **AI coach:** A possible future project that could analyze endurance-training data and help athletes track progress, manage workload, and set realistic goals.
+- **data_science_project:** An existing project where I apply data-analysis and data-science methods to explore a dataset and communicate clear findings.
+- **AI coach:** A future endurance-sports project that could analyze training data, track progress, manage workload, and support realistic goals.
