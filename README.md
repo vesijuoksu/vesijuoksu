@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**vesijuoksu/vesijuoksu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student learning data analysis and data science, with a particular interest in endurance sports.
 
-Here are some ideas to get you started:
+### 🌱 What I'm learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python and SQL
+- Statistics and exploratory data analysis
+- Data visualization and dashboards
+- Machine learning
+- Responsible, reproducible use of data
+
+### 🏃 Projects
+
+- **data_science_project:** An existing project where I apply data-analysis and data-science methods to explore a dataset and communicate clear findings.
+- **AI coach:** A future endurance-sports project that could analyze training data, track progress, manage workload, and support realistic goals.
